@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class FiirstLevelRazboi : MonoBehaviour
 {
     public Camera camera;
     public GameObject g1;
